@@ -17,6 +17,7 @@ h6 {
   color: yellow;
 }
 
+/*Comment Anchor Extension*/
 /* SECTION header*/
 /* SECTION div class="top"*/
 header div.top {
@@ -29,7 +30,7 @@ header div.top h1 {
 }
 /* !SECTION h1*/
 /* SECTION h3*/
-/* 圍棋是一種策略棋類，使用格狀棋盤及黑白二色棋子進行對弈。起源於中國，中國古時有「弈」、「碁」、「手談」等多種稱謂，屬琴棋書畫四藝。 */
+/*  */
 header div.top h3 {
   font-size: 1rem;
 }
@@ -44,7 +45,8 @@ header nav ul {
   display: flex;
   list-style-type: none;
 }
-/* SECTION li*/ /* SECTION a href=""*/ /* !SECTION a*/ /* !SECTION li*/
+/* SECTION li*/ /* SECTION a href=""*/
+/* !SECTION a*/ /* !SECTION li*/
 header nav ul li {
   padding: 0.8rem 1.2rem;
 }
@@ -57,10 +59,141 @@ header nav ul li a {
 header nav ul li a:hover {
   color: yellow;
 }
-/* SECTION li*/ /* SECTION a href=""*/ /* !SECTION a*/ /* !SECTION li*/
-/* SECTION li*/ /* SECTION a href=""*/ /* !SECTION a*/ /* !SECTION li*/
-/* SECTION li*/ /* SECTION a href=""*/ /* !SECTION a*/ /* !SECTION li*/
-/* SECTION li*/ /* SECTION a href=""*/ /* !SECTION a*/ /* !SECTION li*/
+/* SECTION li*/ /* SECTION a href=""*/
+/* !SECTION a*/ /* !SECTION li*/
+/* SECTION li*/ /* SECTION a href=""*/
+/* !SECTION a*/ /* !SECTION li*/
+/* SECTION li*/ /* SECTION a href=""*/
+/* !SECTION a*/ /* !SECTION li*/
+/* SECTION li*/ /* SECTION a href=""*/
+/* !SECTION a*/ /* !SECTION li*/
+
 /* !SECTION ul*/
 /* !SECTION nav*/
 /* !SECTION header*/
+
+/* SECTION main */
+/* SECTION section class="left" */
+/* SECTION h3 */
+/* !SECTION h3 */
+
+/* SECTION figure */
+/* SECTION img src="./images/go-equipment.png" alt="" / */
+/* SECTION figcaption */
+/* !SECTION figcaption */
+/* !SECTION figure */
+
+/* SECTION table */
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+
+/* SECTION tr */
+/* SECTION td */
+/* !SECTION td */
+/* SECTION td */
+/* !SECTION td */
+/* !SECTION tr */
+/* !SECTION table */
+/* !SECTION section */
+/* !SECTION section */
+
+/* SECTION section class="right" */
+/* SECTION h3 */
+/* !SECTION h3 */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION hr / */
+/* SECTION h3 */
+/* !SECTION h3 */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION hr / */
+/* SECTION h3 */
+/* !SECTION h3 */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION ul */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+
+/* !SECTION li */
+/* SECTION li */
+
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+
+/* !SECTION li */
+/* !SECTION ul */
+/* !SECTION section */
+/* !SECTION main */
