@@ -81,6 +81,9 @@ main {
   display: flex;
   flex-wrap: wrap;
 }
+main.no-flex {
+  display: block;
+}
 
 main section {
   padding: 1rem;
@@ -235,3 +238,77 @@ section.right ul {
 /* !SECTION ul */
 /* !SECTION section */
 /* !SECTION main */
+/* !SECTION main */
+/* !SECTION main */
+
+/* SECTION 韓國學院 */
+/* SECTION main class="no-flex" */
+/* SECTION section */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* !SECTION section */
+/* SECTION hr / */
+/* !SECTION hr */
+/* SECTION section */
+/* SECTION h3 style="font-size: 1.5rem" */
+/*!SECTION h3*/
+/*SECTION divclass="player"*/
+.player {
+  margin: 2rem;
+  border: 3px solid burlywood;
+  padding: 0.5rem;
+}
+/*SECTION h4*/
+.player h4 {
+  font-size: 1.5rem;
+  color: rgb(0, 90, 91);
+}
+/*!SECTION h4*/
+/*SECTION h5*/
+.player h5 {
+  font-size: 1.05rem;
+  color: rgb(6, 120, 120);
+}
+/*!SECTION h5*/
+/*SECTION p*/
+/*!SECTION p*/
+/*!SECTION div*/
+/*SECTION divclass="player"*/
+/*SECTION h4*/
+/*!SECTION h4*/
+/*SECTION h5*/
+/*!SECTION h5*/
+/*SECTION p*/
+/* !SECTION p */
+/* !SECTION div */
+
+/* SECTION div class="player" */
+/* SECTION h4 */
+/* !SECTION h4 */
+/* SECTION h5 */
+
+/* !SECTION h5 */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* !SECTION div */
+
+/* SECTION div class="player" */
+/* SECTION h4 */
+/* !SECTION h4 */
+/* SECTION h5 */
+
+/* !SECTION h5 */
+/* SECTION p */
+
+/* !SECTION p */
+/* !SECTION div */
+/* !SECTION section */
+/* !SECTION 韓國學院 */
