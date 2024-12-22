@@ -4,6 +4,37 @@
     <meta charset="zh-Hant" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>圍棋資訊網</title>
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
+    <script type="text/javascript">
+      google.charts.load("current", { packages: ["corechart"] });
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ["棋賽", "獎金(日幣)"],
+          ["棋聖", 45000000],
+          ["十段", 7000000],
+          ["本因坊", 28000000],
+          ["碁聖", 8000000],
+          ["名人", 30000000],
+          ["王座", 14000000],
+          ["天元", 13000000],
+        ]);
+
+        var options = {
+          title: "日本七大棋戰獎金分布圓餅圖",
+        };
+
+        var chart = new google.visualization.PieChart(
+          document.getElementById("piechart")
+        );
+
+        chart.draw(data, options);
+      }
+    </script>
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
@@ -33,10 +64,12 @@
     <main class="no-flex">
       <section>
         <div class="japan">
-          <img
-            src="./images/Nihon_Ki-in_Headquarter_(2016-05-05)_5.jpg"
-            alt="日本棋院"
-          />
+          <div class="image">
+            <img
+              src="./images/Nihon_Ki-in_Headquarter_(2016-05-05)_5.jpg"
+              alt="日本棋院"
+            />
+          </div>
           <div class="info">
             <p>
               日本棋院（日語：一般公益法人日本棋院／いっぱんこうえきほうじんにほんきいん

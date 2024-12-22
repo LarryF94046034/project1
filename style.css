@@ -312,3 +312,102 @@ section.right ul {
 /* !SECTION div */
 /* !SECTION section */
 /* !SECTION 韓國學院 */
+/* !SECTION 韓國學院 */
+
+/* SECTION 日本棋院 */
+/* SECTION div class="japan" */
+div.japan {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+/* SECTION div img
+            src="./images/Nihon_Ki-in_Headquarter_(2016-05-05)_5.jpg"
+            alt="日本棋院"
+          / */
+div.japan div.image {
+  flex: 1 1 300px;
+  display: flex;
+  align-items: center;
+}
+/* !SECTION div img */
+/* SECTION img
+            src="./images/Nihon_Ki-in_Headquarter_(2016-05-05)_5.jpg"
+            alt="日本棋院"
+          / */
+div.japan div.image img {
+  width: 100%;
+}
+/* SECTION div class="info" */
+div.japan div.info {
+  flex: 3 1 600px;
+  padding: 2rem;
+}
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+/* !SECTION p */
+/* SECTION ul */
+div.competition ul {
+  padding: 1rem;
+}
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* !SECTION ul */
+/* !SECTION div */
+/* !SECTION div */
+/* SECTION hr / */
+/* SECTION div class="competition" */
+/* SECTION div class="text" */
+div.competition div.text {
+  flex: 5 1 300px;
+  padding: 2rem;
+}
+
+/* SECTION h3 */
+div.competition div.text h3 {
+  font-size: 2rem;
+  color: rgb(12, 122, 92);
+}
+/* !SECTION h3 */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+
+/* !SECTION p */
+/* SECTION p */
+/* !SECTION p */
+
+/* SECTION ul */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* SECTION li */
+/* !SECTION li */
+/* !SECTION ul */
+/* !SECTION div */
+/* SECTION div id="piechart" */
+#piechart {
+  flex: 1 1 300px;
+}
+/* !SECTION div */
+/* !SECTION div */
+/* !SECTION 日本棋院 section */
