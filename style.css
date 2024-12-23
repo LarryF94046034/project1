@@ -445,3 +445,22 @@ div.china_competition_name_table th {
 }
 
 /* !SECTION */
+
+/* SECTION 台灣棋院 */
+div.taiwan,
+div.contact {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5rem;
+}
+
+div.taiwan h3,
+div.contact h3 {
+  font-size: 2rem;
+  color: rgb(12, 122, 92);
+}
+
+div.contact ul {
+  padding: 1.5rem;
+}
+/* !SECTION 台灣棋院 */
